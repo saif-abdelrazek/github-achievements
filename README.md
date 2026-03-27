@@ -32,8 +32,8 @@ _Don't have the language you need? Just create an [issue](https://github.com/gom
 
 | Badge | Name | How to get |
 | :---: | --- | --- |
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested - now unable to earn)** |
-| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested - now unable to earn)** |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji |
+| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#badge-tiers).                                                                                              |
 | ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Closed an issue or a pull request within 5 min of opening.                                                                                                       |
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Coauthored in **one** or [more](#badge-tiers) merged pull requests.                                                                                             |
@@ -61,9 +61,9 @@ Some Achievements not only have the base version, but also tiers.
 | **Galaxy Brain** | ![Achievement badge Galaxy Brain][gb-default] | ![Bronze badge Galaxy Brain][gb-bronze] | ![Silver badge Galaxy Brain][gb-silver] | ![Gold badge Galaxy Brain][gb-gold] |
 | | 2 answers | 8 answers | 16 answers | 32 answers <br>[@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements) |
 | **Heart On Your Sleeve** | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | ![Bronze badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Silver badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Gold badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) |
-| | ??? | ??? | ??? | ??? |
+| | 2 reactions | 16 reactions | 128 reactions | 1024 reactions |
 | **Open Sourcerer** | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ![Bronze badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png) | ![Silver badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png) | ![Gold badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png) |
-| | ??? | ??? | ??? | ??? |
+| | 2 repositories | 8 repositories | 16 repositories | 64 repositories |
 
 
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
